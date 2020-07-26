@@ -1,0 +1,147 @@
+24
+¿Durante las últimas semanas, ha padecido de un sentimiento de tristeza, depresión o pérdida de energía durante la mayor parte del tiempo?
+2
+Si
+1
+No
+0
+En las 2 últimas semanas ¿ha experimentado ataques de ansiedad, cuando de repente tenía miedo, estaba nervioso/a o bastante intranquilo/a?
+2
+Si
+1
+No
+0
+Durante las últimas semanas ¿ha experimentado fuertes temores irracionales en situaciones sociales tal como hablando con otros o siendo el centro de atención?
+2
+Si
+1
+No
+0
+Durante las dos últimas semanas ¿ha estado molestado por fuertes temores irracionales de usar el transporte público, estar en una tienda, haciendo cola o en sitios públicos
+2
+Si
+1
+No
+0
+En los 2 últimos meses ¿ha experimentado acontecimientos inusuales o situación terrible o inquietante o ha padecido de as secuelas de tal acontecimiento?
+2
+Si
+1
+No
+0
+Durante las últimas 4 semanas ¿ha estado molesto con un sentimiento de estar preocupado/a, tenso/a ansioso/a la mayor parte del tiempo?
+2
+Si
+1
+No
+0
+Estuvo ansioso/a preocupado/a por cosas de su vida diaria tal como tareas de casa, el trabajo, la familia, el/la compañero/a, los niños?
+2
+Si
+1
+No
+0
+¿Estuvo preocupándose de su salud física o enfermedad somática?
+2
+Si
+1
+No
+0
+¿Estuvo preocupada por otras cosas?
+2
+Si
+1
+No
+0
+¿Se preocupó mucho más de lo que otra gente haría en su situación?
+2
+Si
+1
+No
+0
+¿Encuentra difícil para preocuparse, aunque lo ha intentado fuertemente?
+2
+Si
+1
+No
+0
+Cuando estuvo preocupado o ansioso ¿Sintió frecuentemente intranquilida, temor o "los pelos de punta"?
+2
+Si
+1
+No
+0
+Cuando estuvo preocupado o ansioso ¿sintió frecuentemente cansancio o agotamiento fácilmente?
+2
+Si
+1
+No
+0
+Cuando estuvo preocupado o ansioso ¿sintió frecuentemente que tenía dificultad en consentrarse?
+2
+Si
+1
+No
+0
+Cuando estuvo preocupado o ansioso ¿Sintió frecuentemente que estuvo nervioso/a o irritable?
+2
+Si
+1
+No
+0
+Cuando estuvo preocupado o ansioso ¿sintió frecuentemente estar tenso, o molesto por dolores musculares?
+2
+Si
+1
+No
+0
+Cuando estuvo preocupado o ansioso ¿sintió frecuentemente tenía dificultad en mantener el sueño o quedar dormido?
+2
+Si
+1
+No
+0
+Cuando estuvo preocupado o ansioso ¿sintió frecuentemente palpitaciones o taquicardias?
+2
+Si
+1
+No
+0
+Cuando estuvo preocupado o ansioso ¿sintió frecuentemente temblores o sacudidas?
+2
+Si
+1
+No
+0
+Cuando estuvo preocupado o ansioso ¿sintió frecuentemente que sudó mucho?
+2
+Si
+1
+No
+0
+Cuando estuvo preocupado o ansioso ¿sintió frecuentemente que tenía dificultades para respirar?
+2
+Si
+1
+No
+0
+Cuando estuvo preocupado o ansioso ¿ sintió frecuentemente inquietud, debido a su preocupación?
+2
+Si
+1
+No
+0
+¿Interfirieron mucho el sentimiento de preocupación o de ansiedad con las actividades cotidianas en el trabajo, de casa o en sus relaciones con otros/as?
+2
+Si
+1
+No
+0
+¿Cuando empezó este periodo de preocupación?
+3
+Semanas
+0
+Meses
+1
+Años
+2

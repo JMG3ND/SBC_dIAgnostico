@@ -1,0 +1,43 @@
+7
+¿Se enfada frecuentemente?
+2
+Sí
+1
+No
+0
+¿Se siente ofendido ante las críticas?
+2
+Sí
+1
+No
+0
+¿Tiene actitud desafiante?
+2
+Sí
+1
+No
+0
+¿Le cuesta estar concentrado?
+2
+Sí
+1
+No
+0
+¿Culpa a los demás de sus errores?
+2
+Sí
+1
+No
+0
+¿Llega a sentir rencor o necesidad de venganza?
+2
+Sí
+1
+No
+0
+¿Se muestra cruel con amigos, compañeros, familiares, etc.?
+2
+Sí
+1
+No
+0

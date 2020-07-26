@@ -1,0 +1,12 @@
+1
+Usted no presenta ningún síntoma de Trastorno Alimentario.
+Mantenga su salud mental como la ha llevado hasta ahora.
+2
+No presenta suficientes síntomas para considerarse un Trastorno Alimentario.
+Esté pendiente si siente cambios en su comportamiento.
+3
+Tiene indicios a sufrir un Trastorno Alimentario.
+Le empieza a preocupar un poco de más su peso y alimentación. Debe moderar su dieta.
+4
+Usted padece de un Trastorno Alimentario.
+Necesita atención profesional para el control de su alimentación.

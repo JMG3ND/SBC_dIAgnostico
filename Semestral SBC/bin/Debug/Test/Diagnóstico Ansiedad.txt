@@ -1,0 +1,12 @@
+1
+Usted no presenta ningún síntoma de Ansiedad.
+Mantenga su salud mental como la ha llevado hasta ahora.
+2
+No presenta suficientes síntomas para considerarse una enfermedad de ansiedad.
+Esté pendiente si siente cambios en su comportamiento.
+3
+Padece de un nivel bajo de ansiedad.
+Cambiar la forma de pensar sobre algo puede ayudarte a calmar la reacción de miedo y reducir la ansiedad.
+4
+Usted padece de ansiedad.
+Necesita atención profesional para el control de su enfermedad.

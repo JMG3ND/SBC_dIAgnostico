@@ -1,0 +1,61 @@
+10
+¿Tiene pensamientos de "Sentirse gordo" frecuentemente?
+2
+Sí
+1
+No
+0
+¿Teme a subir de peso?
+2
+Sí
+1
+No
+0
+¿Siente que no tiene control sobre la comida que ingiere?
+2
+Sí
+1
+No
+0
+¿Su autoestima es afectada por su peso?
+2
+Sí
+1
+No
+0
+¿Siente culpa o vergüenza luego de comer?
+2
+Sí
+1
+No
+0
+¿Te sientes incómodo al comer frente a otras personas?
+2
+Sí
+1
+No
+0
+¿Ayuna para bajar de peso?
+2
+Sí
+1
+No
+0
+¿Utiliza o ha pensado utilizar laxantes para no engordar?
+2
+Sí
+1
+No
+0
+¿Come para controlar sus sentimientos?
+2
+Sí
+1
+No
+0
+¿Le preocupa la forma de su cuerpo?
+2
+Sí
+1
+No
+0

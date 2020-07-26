@@ -1,0 +1,26 @@
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\Semestral SBC\bin\Debug\Semestral SBC.exe.config
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\Semestral SBC\bin\Debug\Semestral SBC.exe
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\Semestral SBC\bin\Debug\Semestral SBC.pdb
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\Semestral SBC\obj\Debug\Semestral SBC.csprojAssemblyReference.cache
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\Semestral SBC\obj\Debug\Semestral_SBC.Properties.Resources.resources
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\Semestral SBC\obj\Debug\Semestral SBC.csproj.GenerateResource.cache
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\Semestral SBC\obj\Debug\Semestral SBC.csproj.CoreCompileInputs.cache
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\Semestral SBC\obj\Debug\Semestral SBC.exe
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\Semestral SBC\obj\Debug\Semestral SBC.pdb
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\Semestral SBC\obj\Debug\Semestral_SBC.VentanaPrinsipal.resources
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\Semestral SBC\obj\Debug\Semestral_SBC.Ventanas.Preguntas.resources
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\bin\Debug\Semestral SBC.exe.config
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\bin\Debug\Semestral SBC.exe
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\bin\Debug\Semestral SBC.pdb
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\obj\Debug\Semestral SBC.csprojAssemblyReference.cache
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\obj\Debug\Semestral_SBC.Properties.Resources.resources
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\obj\Debug\Semestral_SBC.Ventanas.Preguntas.resources
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\obj\Debug\Semestral SBC.csproj.GenerateResource.cache
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\obj\Debug\Semestral SBC.csproj.CoreCompileInputs.cache
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\obj\Debug\Semestral SBC.exe
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\obj\Debug\Semestral SBC.pdb
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\obj\Debug\Semestral_SBC.Ventanas.Datos.resources
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\obj\Debug\Semestral_SBC.Ventanas.Resultados.resources
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\obj\Debug\Semestral SBC.csproj.CopyComplete
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\obj\Debug\Semestral_SBC.VentanaPrincipal.resources
+C:\Users\Jose Gutierrez\Documents\GitHub\Semestral SBC\Semestral SBC\bin\Debug\SwiPlCs.xml

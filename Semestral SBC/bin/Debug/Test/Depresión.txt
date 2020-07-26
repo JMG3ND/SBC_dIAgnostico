@@ -1,0 +1,81 @@
+10
+Su estado de ánimo es:
+3
+Generalmente positivo
+0
+Me siento triste la mayor parte del día
+2
+Últimamente me siento algo triste
+1
+Respecto a sus planes de futuro:
+3
+No espera nada de ellos
+2
+Los mira con optimismo
+0
+Se siente algo desanimado respecto a ellos
+1
+Respecto a sus objetivos en la vida:
+3
+Me siento satisfecho a pesar de no haberlos cumplido todos
+0
+Algunas cosas de las que he hecho han merecido la pena
+1
+Me siento un fracasado
+2
+Su día a día:
+3
+Está lleno de anécdotas, unas buenas y otras malas
+0
+Me aburre mucho
+2
+He perdido el interés últimamente
+1
+Cuando se compara con otras personas:
+3
+A veces gano yo. A veces ganan ellos
+0
+Salgo mal parado la mayoría de las veces
+1
+Me doy asco
+2
+En las últimas semanas...
+3
+He llorado prácticamente a diario
+2
+Lloro un poco más que antes
+1
+No he llorado sin motivo
+0
+Sus relaciones sociales:
+3
+No ha variado mi interés hacia las mismas
+0
+Me intereso por los demás, pero menos que antes
+1
+He perdido el interés
+2
+Sus hábitos de sueño:
+3
+Me despierto en mitad de la noche y/o me cuesta dormir
+1
+Duermo como siempre
+0
+Duermo mucho más que antes o mucho menos que antes
+2
+Respecto a su apetito:
+3
+No me apetece o no paro de comer
+2
+Ha variado un poco
+1
+Es igual que siempre
+0
+Respecto a su energía:
+3
+Sigue igual que siempre
+0
+Estoy tan cansado que me hace incapaz de hacer algo
+2
+Siento que he disminuido un poco mi rendimiento
+1
